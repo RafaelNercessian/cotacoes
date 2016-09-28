@@ -1,0 +1,96 @@
+body {
+	font-size: 12px !important;
+}
+
+.administrador {
+	font-weight:bold;
+	margin-top: 35px;
+}
+
+.erro {
+	font-weight: bold;
+	color: red;
+	position: relative;
+	top: 3px;
+}
+
+.titulo_cotacao {
+	padding-bottom: 30px;
+	text-decoration: underline;
+}
+
+#gravar {
+	margin-bottom: 50px;
+}
+
+.div {
+	float: left;
+}
+
+#pintura {
+	margin-bottom: 30px;
+}
+
+.botao_adicionar {
+	position: relative;
+	top: -5px;
+	left: 5px;
+}
+
+.mensagem_produto_nao_encontrado {
+	font-weight: bold;
+	color: red;
+}
+
+#itens_cotacao {
+	padding-top: 30px
+}
+
+#cabecalho,header {
+	background-color: #ccc;
+	height: 90px;
+	position: relative;
+}
+
+#logoCompany {
+	float: left;
+	position: absolute;
+	top: 13px;
+	left: 50%;
+	margin-left: -580px;
+}
+
+.mensagem,
+.erroEdicao {
+	color: green;
+	font-weight: bold;
+	display: block;
+	margin-bottom: 10px;
+	font-size: 14px
+}
+
+#formularioLogin {
+	width: 300px;
+	margin: 160px auto;
+}
+
+.table>tbody>tr>td {
+	vertical-align: middle !important;
+}
+
+.login{
+	margin-top: 15px; 
+	margin-bottom: 15px;
+}
+
+#rodape,footer {
+	background-color: #ccc;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	padding: 10px 0px;
+	text-align: center;
+	font-size: 10px;
+	color: #FFF;
+	display: block;
+}
